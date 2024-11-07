@@ -5,4 +5,5 @@
 type Query {
   """Returns a greeting message."""
   hola: String!
+  randomNumber: Float!
 }
